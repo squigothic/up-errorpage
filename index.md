@@ -11,8 +11,8 @@
     <title>Harmi, jotain meni vikaan!</title>
   </head>
   <body>
-    <h2>Voi höhlä!</h2>
-    <p>Sivuilla tuntuu olevan tällä hetkellä pieniä ongelmia, korjaamme asiaa... toivottavsti. </p>
+    <h1>Voi höhlä!</h1>
+    <p>Sivuilla tuntuu olevan tällä hetkellä pieniä ongelmia, korjaamme asiaa...</p>
     <p>Jos tekniset yksityiskohdat kiinnostavat, tällaisia tietoja on tarjolla: </p>
     ::CLOUDFLARE_ERROR_500S_BOX::
   </body>
