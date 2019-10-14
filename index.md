@@ -15,6 +15,7 @@
     }
     .toggle {
       color: blue;
+      cursor: pointer;
     }
     .toggle:hover {
       text-decoration: underline;
