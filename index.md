@@ -6,7 +6,6 @@
       padding: 0 15px;
       background-color: #eee;
     }
-    h1:first-of-type { display: none;}
     </style>
     <title>Harmi, jotain meni vikaan!</title>
   </head>
